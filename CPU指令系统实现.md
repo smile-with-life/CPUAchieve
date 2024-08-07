@@ -63,15 +63,15 @@
 
 - **二操作数指令:4位操作码 4位寻址特征,最高位为1**
 
-![cpu-image-46.png](CPU-image\cpu-image-46.png)
+![cpu-image-46.png](CPU-image/cpu-image-46.png)
 
 - **一操作数指令:6位操作码 2位寻址特征,最高两位为01**
 
-![cpu-image-47.png](CPU-image\cpu-image-47.png)
+![cpu-image-47.png](CPU-image/cpu-image-47.png)
 
 - **二操作数指令:8位操作码 0位寻址特征,最高两位为00**
 
-![cpu-image-48.png](CPU-image\cpu-image-48.png)
+![cpu-image-48.png](CPU-image/cpu-image-48.png)
 
 ### 寻址方式 
 
