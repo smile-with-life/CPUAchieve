@@ -25,7 +25,7 @@ $$
 
 ### 电路实现
 
-![cpu-image-1](CPU-image\cpu-image-1.png)
+![cpu-image-1](CPU-image/cpu-image-1.png)
 
 # 2. 全加器
 
@@ -58,13 +58,13 @@ $$
 
 ### 电路实现
 
-![cpu-image-2](CPU-image\cpu-image-2.png)
+![cpu-image-2](CPU-image/cpu-image-2.png)
 
 # 3. 8位串行加法器
 
 ### 电路实现
 
-![cpu-image-3](CPU-image\cpu-image-3.png)
+![cpu-image-3](CPU-image/cpu-image-3.png)
 
 # 4. 8位取反器
 
@@ -85,21 +85,21 @@ $$
 
 ### 电路实现
 
-![cpu-image-4](CPU-image\cpu-image-4.png)
+![cpu-image-4](CPU-image/cpu-image-4.png)
 
 # 5. 8位加法和减法实现
 
 ### 电路实现
 
-![cpu-image-5](CPU-image\cpu-image-5.png)
+![cpu-image-5](CPU-image/cpu-image-5.png)
 
 ### 加法测试
 
-![cpu-image-6](CPU-image\cpu-image-6.png)
+![cpu-image-6](CPU-image/cpu-image-6.png)
 
 ### 减法测试（使用补码进行计算）
 
-![cpu-image-7](CPU-image\cpu-image-7.png)
+![cpu-image-7](CPU-image/cpu-image-7.png)
 
 # 6. 2-1选择器
 
@@ -124,19 +124,19 @@ $$
 
 ### 电路实现
 
-![cpu-image-8](CPU-image\cpu-image-8.png)
+![cpu-image-8](CPU-image/cpu-image-8.png)
 
 # 7. 8位2-1选择器
 
 ### 电路实现
 
-![cpu-image-9.png](CPU-image\cpu-image-9.png)
+![cpu-image-9.png](CPU-image/cpu-image-9.png)
 
 # 8. 十六进制数码管
 
 ### 电路实现
 
-![cpu-image-10.png](CPU-image\cpu-image-10.png)
+![cpu-image-10.png](CPU-image/cpu-image-10.png)
 
 ### 数码管显示
 
@@ -144,34 +144,34 @@ $$
 
 | 十进制 | 十六进制 | 数码管输入(十六进制) |                        显示                         |
 | :----: | :------: | :------------------: | :-------------------------------------------------: |
-|   0    |    0     |          3F          |  ![light-image-0.png](CPU-image\light-image-0.png)  |
-|   1    |    1     |          06          |  ![light-image-1.png](CPU-image\light-image-1.png)  |
-|   2    |    2     |          5B          |  ![light-image-2.png](CPU-image\light-image-2.png)  |
-|   3    |    3     |          4F          |  ![light-image-3.png](CPU-image\light-image-3.png)  |
-|   4    |    4     |          66          |  ![light-image-4.png](CPU-image\light-image-4.png)  |
-|   5    |    5     |          6D          |  ![light-image-5.png](CPU-image\light-image-5.png)  |
-|   6    |    6     |          7D          |  ![light-image-6.png](CPU-image\light-image-6.png)  |
-|   7    |    7     |          07          |  ![light-image-7.png](CPU-image\light-image-7.png)  |
-|   8    |    8     |          7F          |  ![light-image-8.png](CPU-image\light-image-8.png)  |
-|   9    |    9     |          6F          |  ![light-image-9.png](CPU-image\light-image-9.png)  |
-|   10   |    A     |          77          | ![light-image-10.png](CPU-image\light-image-10.png) |
-|   11   |    B     |          7C          | ![light-image-11.png](CPU-image\light-image-11.png) |
-|   12   |    C     |          39          | ![light-image-12.png](CPU-image\light-image-12.png) |
-|   13   |    D     |          5E          | ![light-image-13.png](CPU-image\light-image-13.png) |
-|   14   |    E     |          79          | ![light-image-14.png](CPU-image\light-image-14.png) |
-|   15   |    F     |          71          | ![light-image-15.png](CPU-image\light-image-15.png) |
+|   0    |    0     |          3F          |  ![light-image-0.png](CPU-image/light-image-0.png)  |
+|   1    |    1     |          06          |  ![light-image-1.png](CPU-image/light-image-1.png)  |
+|   2    |    2     |          5B          |  ![light-image-2.png](CPU-image/light-image-2.png)  |
+|   3    |    3     |          4F          |  ![light-image-3.png](CPU-image/light-image-3.png)  |
+|   4    |    4     |          66          |  ![light-image-4.png](CPU-image/light-image-4.png)  |
+|   5    |    5     |          6D          |  ![light-image-5.png](CPU-image/light-image-5.png)  |
+|   6    |    6     |          7D          |  ![light-image-6.png](CPU-image/light-image-6.png)  |
+|   7    |    7     |          07          |  ![light-image-7.png](CPU-image/light-image-7.png)  |
+|   8    |    8     |          7F          |  ![light-image-8.png](CPU-image/light-image-8.png)  |
+|   9    |    9     |          6F          |  ![light-image-9.png](CPU-image/light-image-9.png)  |
+|   10   |    A     |          77          | ![light-image-10.png](CPU-image/light-image-10.png) |
+|   11   |    B     |          7C          | ![light-image-11.png](CPU-image/light-image-11.png) |
+|   12   |    C     |          39          | ![light-image-12.png](CPU-image/light-image-12.png) |
+|   13   |    D     |          5E          | ![light-image-13.png](CPU-image/light-image-13.png) |
+|   14   |    E     |          79          | ![light-image-14.png](CPU-image/light-image-14.png) |
+|   15   |    F     |          71          | ![light-image-15.png](CPU-image/light-image-15.png) |
 
 # 9. 十六进制显示
 
 ### 电路实现
 
-![cpu-image-11.png](CPU-image\cpu-image-11.png)
+![cpu-image-11.png](CPU-image/cpu-image-11.png)
 
 # 10. 十进制显示
 
 ### 电路实现
 
-![cpu-image-12.png](CPU-image\cpu-image-12.png)
+![cpu-image-12.png](CPU-image/cpu-image-12.png)
 
 # 11. R-S触发器
 
@@ -192,7 +192,7 @@ $$
 
 ### 电路实现
 
-![cpu-image-13.png](CPU-image\cpu-image-13.png)
+![cpu-image-13.png](CPU-image/cpu-image-13.png)
 
 **该电路有以下特点：**
 
@@ -220,13 +220,13 @@ $$
 
 ### 电路实现
 
-![cpu-image-14.png](CPU-image\cpu-image-14.png)
+![cpu-image-14.png](CPU-image/cpu-image-14.png)
 
 # 13. D边沿触发器
 
 ### 电路实现
 
-![cpu-image-15.png](CPU-image\cpu-image-15.png)
+![cpu-image-15.png](CPU-image/cpu-image-15.png)
 
 **上升沿触发,即CP端由0变为1时,将D>端数据存储进去**
 
@@ -234,17 +234,17 @@ $$
 
 ### 电路实现
 
-![cpu-image-16.png](CPU-image\cpu-image-16.png)
+![cpu-image-16.png](CPU-image/cpu-image-16.png)
 
-![cpu-image-17.png](CPU-image\cpu-image-17.png)
+![cpu-image-17.png](CPU-image/cpu-image-17.png)
 
-![cpu-image-18.png](CPU-image\cpu-image-18.png)
+![cpu-image-18.png](CPU-image/cpu-image-18.png)
 
 # 15. T触发器
 
 ### 电路实现
 
-![cpu-image-19.png](CPU-image\cpu-image-19.png)
+![cpu-image-19.png](CPU-image/cpu-image-19.png)
 
 **上升沿触发,使状态反转,一个周期翻转一次状态**
 
@@ -252,23 +252,23 @@ $$
 
 ### 电路实现
 
-![cpu-image-20.png](CPU-image\cpu-image-20.png)
+![cpu-image-20.png](CPU-image/cpu-image-20.png)
 
 **第一个T触发器的两个周期构成第二个T触发器的一个周期，第二个T触发器的两个周期构成第三个T触发器的一个周期，依次类推。即构成了一个8位计数器，从0到255**
 
 ### 8位计数器
 
-![cpu-image-30.png](CPU-image\cpu-image-30.png)
+![cpu-image-30.png](CPU-image/cpu-image-30.png)
 
 ### 3位计数器
 
-![cpu-image-31.png](CPU-image\cpu-image-31.png)
+![cpu-image-31.png](CPU-image/cpu-image-31.png)
 
 # 17. 1字节存储单元
 
 ### 电路实现
 
-![cpu-image-21.png](CPU-image\cpu-image-21.png)
+![cpu-image-21.png](CPU-image/cpu-image-21.png)
 
 **D边沿触发器可以在上升沿中将输入写入，利用这样的功能我们可以实现一个1字节存储器**
 
@@ -276,7 +276,7 @@ $$
 
 ### 电路实现
 
-![cpu-image-22.png](CPU-image\cpu-image-22.png)
+![cpu-image-22.png](CPU-image/cpu-image-22.png)
 
 **EN为0时断开**
 
@@ -284,7 +284,7 @@ $$
 
 ### 电路实现
 
-![cpu-image-23.png](CPU-image\cpu-image-23.png)
+![cpu-image-23.png](CPU-image/cpu-image-23.png)
 
 - **WE为写允许信号,*
 - **CS为片选有效信号**
@@ -306,13 +306,13 @@ $$
 
 ### 电路实现
 
-![cpu-image-24.png](CPU-image\cpu-image-24.png)
+![cpu-image-24.png](CPU-image/cpu-image-24.png)
 
 # 21. 8x1B存储器
 
 ### 电路实现
 
-![cpu-image-25.png](CPU-image\cpu-image-25.png)
+![cpu-image-25.png](CPU-image/cpu-image-25.png)
 
 # 22. 存储器扩展
 
@@ -320,33 +320,33 @@ $$
 
 **位扩展**
 
-![cpu-image-26.png](CPU-image\cpu-image-26.png)
+![cpu-image-26.png](CPU-image/cpu-image-26.png)
 
 **字扩展**
 
 **低位交叉编址**
 
-![cpu-image-27.png](CPU-image\cpu-image-27.png)
+![cpu-image-27.png](CPU-image/cpu-image-27.png)
 
 **高位交叉编址**
 
-![cpu-image-28.png](CPU-image\cpu-image-28.png)
+![cpu-image-28.png](CPU-image/cpu-image-28.png)
 
 # 23. 逻辑运算
 
 ### 8位AND电路实现
 
-![cpu-image-38.png](CPU-image\cpu-image-38.png)
+![cpu-image-38.png](CPU-image/cpu-image-38.png)
 
 ### 8位OR电路实现
 
-![cpu-image-39.png](CPU-image\cpu-image-39.png)
+![cpu-image-39.png](CPU-image/cpu-image-39.png)
 
 ### 8位XOR电路实现
 
-![cpu-image-40.png](CPU-image\cpu-image-40.png)
+![cpu-image-40.png](CPU-image/cpu-image-40.png)
 
 ### 8位NIV电路实现
 
-![cpu-image-41.png](CPU-image\cpu-image-41.png)
+![cpu-image-41.png](CPU-image/cpu-image-41.png)
 
