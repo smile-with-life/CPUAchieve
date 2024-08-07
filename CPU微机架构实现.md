@@ -2,7 +2,7 @@
 
 ### 电路实现
 
-![cpu-image-29.png](CPU-image\cpu-image-29.png)
+![cpu-image-29.png](CPU-image/cpu-image-29.png)
 
 - **A,B是两个8位数输入**
 - **OP是加减选择，为1时做减法，为0时做加法**
@@ -12,7 +12,7 @@
 
 ### 电路实现
 
-![CPU-image\cpu-image-32.png](CPU-image\cpu-image-32.png)
+![CPU-image\cpu-image-32.png](CPU-image/cpu-image-32.png)
 
 - **三位计数器用来遍历ROM里所有地址的数据**
 - **ALU负责做加法运算**
@@ -32,7 +32,7 @@
 
 ### 电路实现
 
-![cpu-image-33.png](CPU-image\cpu-image-33.png)
+![cpu-image-33.png](CPU-image/cpu-image-33.png)
 
 - **`POW`：启动开关，1启动，0关闭**
 - **`MAN`：手动脉冲开关，1手动时钟，0自动时钟**
@@ -49,7 +49,7 @@
 
 ### 电路实现
 
-![cpu-image-34.png](CPU-image\cpu-image-34.png)
+![cpu-image-34.png](CPU-image/cpu-image-34.png)
 
 - **启动仿真，按下复位按钮**
 - **按下POW，启动全自动加法机，此时时钟信号打开，复位信号关闭**
@@ -61,7 +61,7 @@
 
 ### 电路实现
 
-![cpu-image-35.png](CPU-image\cpu-image-35.png)
+![cpu-image-35.png](CPU-image/cpu-image-35.png)
 
 - **`EN`：三态门使能，在输入输出端分别加上三态门用来隔离总线；EN=1输出(计数)，EN=0输入(预置数)**
 
@@ -69,11 +69,11 @@
 
 ### 电路实现
 
-![cpu-image-36.png](CPU-image\cpu-image-36.png)
+![cpu-image-36.png](CPU-image/cpu-image-36.png)
 
 # 7.微程序控制
 
-![cpu-image-37.png](CPU-image\cpu-image-37.png)
+![cpu-image-37.png](CPU-image/cpu-image-37.png)
 
 #### 微指令
 
@@ -95,7 +95,7 @@
 
 ### 电路实现
 
-![cpu-image-42.png](CPU-image\cpu-image-42.png)
+![cpu-image-42.png](CPU-image/cpu-image-42.png)
 
 #### 逻辑运算选择
 
@@ -125,7 +125,7 @@
 
 ### 电路实现
 
-![cpu-image-43.png](D:\Proceduct\Logic Circuit Project\CPU-image\cpu-image-43.png)
+![cpu-image-43.png](CPU-image/cpu-image-43.png)
 
 - **输入端W和R共五位最多可控制32个元器件**
 - **使用32位异或门防止单个器件的同时读写**
@@ -138,7 +138,7 @@
 
 ### 电路实现
 
-![cpu-image-44.png](D:\Proceduct\Logic Circuit Project\CPU-image\cpu-image-44.png)
+![cpu-image-44.png](CPU-image/cpu-image-44.png)
 
 - **控制RSC和DST寄存器中表示的寄存器**
 
@@ -146,4 +146,4 @@
 
 ### 电路实现
 
-![cpu-image-45.png](CPU-image\cpu-image-45.png)
+![cpu-image-45.png](CPU-image/cpu-image-45.png)
